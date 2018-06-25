@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">TapJacker</string>
-    <string name="action_settings">Settings</string>
+    <string name="overlay_message">This overlay demonstrates Tapjacking attack</string>
+    <string name="overlay_picture_description">Tapjacker overlay picture</string>
+    <string name="run">Run</string>
+    <string name="choose_application_package">Choose application package:</string>
+    <string name="exported_activity">Exported activity:</string>
+    <string name="overlay_color">Overlay color:</string>
+    <string name="delay_seconds">Delay (seconds):</string>
+    <string name="delay_suggested">10</string>
+    <string name="custom_text_to_show">Custom text to show</string>
+    <string name="show_logo">Show logo</string>
 </resources>

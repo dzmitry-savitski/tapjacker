@@ -152,7 +152,7 @@ public class MainActivity extends AppCompatActivity {
     private Toast createOverlay() {
         LayoutInflater inflater = (LayoutInflater) getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         Toast overlay = Toast.makeText(this, "", Toast.LENGTH_SHORT);
-        View overlayView = inflater.inflate(R.layout.clickjacker_overlay, null);
+        View overlayView = inflater.inflate(R.layout.tapjacker_overlay, null);
         overlay.setView(overlayView);
         overlay.setGravity(Gravity.FILL, 0, 0);
 

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
@@ -10,6 +9,7 @@
         android:layout_width="134dp"
         android:layout_height="145dp"
         android:layout_marginBottom="16dp"
+        android:contentDescription="@string/overlay_picture_description"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
@@ -21,7 +21,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="54dp"
-        android:text="This overlay demonstrates ClickJacking attack"
+        android:text="@string/overlay_message"
         android:textAlignment="center"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
         android:textStyle="bold"
