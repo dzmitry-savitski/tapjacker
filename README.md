@@ -1,4 +1,4 @@
-# Tapjacker [![Build Status](https://travis-ci.org/dzmitry-savitski/tapjacker.svg?branch=master)](https://travis-ci.org/dzmitry-savitski/tapjacker)
+# Tapjacker [![Build Status](https://travis-ci.org/dzmitry-savitski/tapjacker.svg?branch=master)](https://travis-ci.org/dzmitry-savitski/tapjacker) ![Min Sdk Version](https://img.shields.io/badge/Min%20Sdk%20Version-21-green.svg)
 Tapjacker is a tool for quick demonstration of android tapjacking attacks. Inspired by [Qark](https://github.com/linkedin/qark) project I wanted to create an easy-to-use tool.
 
 ## Main features:
@@ -10,7 +10,7 @@ Tapjacker is a tool for quick demonstration of android tapjacking attacks. Inspi
 
 ## Screenshots:
 #### Application
-[Application](https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/main_activity.png)
+[<img src="https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/main_activity.png" width="250"/>](https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/main_activity.png)
 
 #### Demonstrating tapjacking attack
-[Demonstrating tapjacking attack](https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/tapjacking_demo.png)
+[<img src="https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/tapjacking_demo.png" width="250"/>](https://github.com/dzmitry-savitski/tapjacker/raw/master/misc/tapjacking_demo.png)
